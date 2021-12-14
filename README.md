@@ -1,2 +1,2 @@
 # Adu-material-ui
-It is node module for react js
+It is module for react js
